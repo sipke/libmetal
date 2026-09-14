@@ -276,7 +276,7 @@ Then following points should be rescpected to facilitate the review process.
 
 Code is contributed to OpenAMP under a number of licenses, but all code must be
 compatible with version the
-[BSD License](https://github.com/OpenAMP/libmetal/blob/master/LICENSE.md), which
+[BSD License](https://github.com/OpenAMP/libmetal/blob/main/LICENSE.md), which
 is the license covering the OpenAMP distribution as a whole. In practice, use
 the following tag instead of the full license text in the individual files:
 
